@@ -8,19 +8,19 @@ USamos OpenCode
 
 MCP de postgresql
 
-´´´json
+```json
 
 "postgres": {
   "command": "npx",
   "args": ["-y", "@modelcontextprotocol/server-postgres", "postgresql://usuario:password@localhost:5432/tu_base_datos"]
 }
 
-´´´
+```
 MCP Sqlite
-´´´
+```json
 "sqlite": {
   "command": "npx",
   "args": ["-y", "@modelcontextprotocol/server-sqlite", "--db", "C:\Users\blanc\ia\springBootEjemplo\demo\data\demo.db"]
 }
 
-´´´
+```
