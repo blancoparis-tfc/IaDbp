@@ -20,7 +20,7 @@ MCP Sqlite
 ```json
 "sqlite": {
   "command": "npx",
-  "args": ["-y", "@modelcontextprotocol/server-sqlite", "--db", "C:\Users\blanc\ia\springBootEjemplo\demo\data\demo.db"]
+  "args": ["-y", "@modelcontextprotocol/server-sqlite", "--db", "C:\\Users\\blanc\\ia\\springBootEjemplo\\demo\\data\\demo.db"]
 }
 
 ```
